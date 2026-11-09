@@ -1,7 +1,8 @@
-streamlit
-tensorflow
-numpy
 pandas
+numpy
 matplotlib
-Pillow
-opencv-python-headless
+seaborn
+scikit-learn
+streamlit
+plotly
+joblib
